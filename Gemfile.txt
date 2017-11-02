@@ -56,4 +56,4 @@ gem 'friendly_id'
 
 
 
-asgadfgadfgasdgadfgadfgasdgadfgaasdgadgaasdfadfgasdfadgasdggdagdafdgadfgaasdfgadfafg
+asgadfgadfgasdgadfgadfgasdgadfgaasdgadgaasdfadfgasdfadgasdggdagdafdgadfgaasdfgadfafgasdgagasd
